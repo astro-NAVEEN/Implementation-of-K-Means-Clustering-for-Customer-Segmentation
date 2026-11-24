@@ -15,6 +15,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 
+~~~py
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -83,6 +84,7 @@ plt.legend()
 plt.grid(True)
 
 plt.show()
+~~~
 
 ## Output:
 
